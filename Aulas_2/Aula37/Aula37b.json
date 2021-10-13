@@ -1,0 +1,12 @@
+{
+    "nome":"Taiga",
+    "Time":"Meninas",
+    "Vivo":"True",
+    "Energina":100,
+    "Mochila":["Corda","Tigre"],
+    "Amigos":[
+        {"Nome":"Ryuuji","Procimidade":"Alta"},
+        {"Nome":"Minori","Procimidade":"Muito Alta"},
+        {"Nome":"Kitamura","Procimidade":"Média"}
+    ]
+}
